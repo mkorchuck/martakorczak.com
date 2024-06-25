@@ -53,7 +53,7 @@ education:
   - area: MSc in Economics of Public Policy
     institution: Barcelona School of Economics
     date_start: 2019-09-01
-    date_end: 2020-06-31
+    date_end: 2020-06-30
 
 
 # Skills
