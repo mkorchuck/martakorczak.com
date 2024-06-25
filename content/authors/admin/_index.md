@@ -65,7 +65,7 @@ education:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 ## About Me
-
 Cześć!
 Welcome to my website. I am a PhD candidate in Economics at European University Institute in Florence. I am using micro-econometric and experimental tools, as well as microeconomic theory, to answer questions from areas of political economy, public economics and gender. 
 The common denominator of my projects is the study of unexpected consequences of policies which is for me the most fascinating part in studying economics. 
+---
