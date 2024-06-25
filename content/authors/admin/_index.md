@@ -11,7 +11,7 @@ last_name: Korczak
 
 # Status emoji
 status:
-icon:
+icon: assets/media/icons/icon.png
 
 # Is this the primary user of the site?
 superuser: true
@@ -42,15 +42,15 @@ interests:
   - Gender
 
 education:
-  - area: PhD in Economics
+  - area: PhD in Economics (2020-)
     institution: European University Institute
     date_start: 2021-09-01
     date_end: 2025-12-31
-  - area: MRes in Economics
+  - area: MRes in Economics (2021)
     institution: European University Institute
     date_start: 2020-09-01
     date_end: 2021-06-30
-  - area: MSc in Economics of Public Policy
+  - area: MSc in Economics of Public Policy (2020)
     institution: Barcelona School of Economics
     date_start: 2019-09-01
     date_end: 2020-06-30
@@ -65,7 +65,7 @@ education:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 ---
-## About Me
-Cześć!
-Welcome to my website. I am a PhD candidate in Economics at European University Institute in Florence. I am using micro-econometric and experimental tools, as well as microeconomic theory, to answer questions from areas of political economy, public economics and gender. 
+## Cześć!
+Welcome to my website. I am a PhD candidate in Economics at European University Institute in Florence. I use micro-econometric and experimental tools, as well as microeconomic theory, to answer questions from areas of political economy, public economics and gender. 
+|
 The common denominator of my projects is the study of unexpected consequences of policies which is for me the most fascinating part in studying economics. 
