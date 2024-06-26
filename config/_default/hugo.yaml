@@ -6,7 +6,7 @@
 # Website name
 title: Marta Korczak
 # Website URL
-baseURL: 'https://martakorczak.com'
+baseURL: 'http://martakorczak.com'
 
 ############################
 ## LANGUAGE
