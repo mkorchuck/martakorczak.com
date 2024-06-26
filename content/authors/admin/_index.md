@@ -10,8 +10,8 @@ first_name: Marta
 last_name: Korczak
 
 # Status emoji
-status:
-icon: assets/media/icons/icon.png
+#status:
+#icon: assets/media/icons/icon.png
 
 # Is this the primary user of the site?
 superuser: true
@@ -67,5 +67,5 @@ education:
 ---
 ## Cześć!
 Welcome to my website. I am a PhD candidate in Economics at European University Institute in Florence. I use micro-econometric and experimental tools, as well as microeconomic theory, to answer questions from areas of political economy, public economics and gender. 
-|
-The common denominator of my projects is the study of unexpected consequences of policies which is for me the most fascinating part in studying economics. 
+
+The common denominator of my projects is the study of incentives and unexpected consequences of policies as I find them the most fascinating in economics.
