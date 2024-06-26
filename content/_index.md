@@ -30,11 +30,11 @@ sections:
           size: cover
           position: center
           parallax: false
-  - #block: markdown
-   # content:
-     # title: '📚 My Research'
-    #  subtitle: ''
-     # text: |-
+  - block: markdown
+    content:
+    title: ''
+    subtitle: ''
+    text:
     design:
       columns: '1'
       title: Recent & Upcoming Talks
