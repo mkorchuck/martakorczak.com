@@ -42,15 +42,15 @@ interests:
   - Gender
 
 education:
-  - area: PhD in Economics (2020-)
+  - area: PhD in Economics (expected)
     institution: European University Institute
     date_start: 2021-09-01
     date_end: 2025-12-31
-  - area: MRes in Economics (2021)
+  - area: MRes in Economics
     institution: European University Institute
     date_start: 2020-09-01
     date_end: 2021-06-30
-  - area: MSc in Economics of Public Policy (2020)
+  - area: MSc in Economics of Public Policy
     institution: Barcelona School of Economics
     date_start: 2019-09-01
     date_end: 2020-06-30
@@ -66,5 +66,5 @@ education:
 
 ---
 ## Cześć!
-Welcome to my website. I am a PhD candidate in Economics at European University Institute in Florence. I use micro-econometric and experimental tools, as well as microeconomic theory, to answer questions from areas of political economy, public economics and gender.\
-The common denominator of my projects is the study of incentives and unexpected consequences of policies as I find them the most fascinating in economics.
+Welcome to my website. I am a PhD candidate in Economics at European University Institute in Florence. My supervisors are [David K. Levine](http://www.dklevine.com/david.htm) and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home) I use micro-econometric and experimental tools, as well as microeconomic theory, to answer questions from areas of political economy, public economics and gender.\
+The common denominator of my projects is the study of incentives and unexpected consequences of policies.
