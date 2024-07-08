@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/CV_Marta_Korczak_short.pdf
     design:
-      css_class: dark
+      css_class: indigo
       background:
         color: black
         image:
