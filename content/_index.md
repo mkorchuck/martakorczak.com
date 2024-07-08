@@ -21,7 +21,7 @@ sections:
     design:
       css_class: indigo
       background:
-        color: black
+        color: indigo
         image:
           # Add your image background to `assets/media/`.
          # filename: stacked-peaks.svg
