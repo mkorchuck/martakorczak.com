@@ -67,4 +67,4 @@ education:
 ---
 ## Cześć!
 Welcome to my website. I am a PhD candidate in Economics at European University Institute in Florence. My supervisors are [David K. Levine](http://www.dklevine.com/david.htm) and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home).\
-I use micro-econometric and experimental tools, as well as microeconomic theory, to answer questions from areas of political economy, public economics and gender.\
+I use micro-econometric and experimental tools, as well as microeconomic theory, to answer questions from areas of political economy, public economics and gender.
