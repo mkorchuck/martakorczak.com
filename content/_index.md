@@ -24,42 +24,10 @@ sections:
         color: indigo
         image:
           # Add your image background to `assets/media/`.
-          filename: page-turner.svg
+          filename: Shiny Overlay.svg
           filters:
             brightness: 1.0
           size: cover
           position: center
           parallax: false
-            - block: collection
-    id: projects
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      id: projects
-      columns: 2
-  - block: collection_2
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
 ---
