@@ -21,10 +21,10 @@ sections:
     design:
       css_class: indigo
       background:
-        color: indigo
+        color: #D0C8BB
         image:
           # Add your image background to `assets/media/`.
-          filename: Shiny Overlay.svg
+          #filename: Shiny Overlay.svg
           filters:
             brightness: 1.0
           size: cover
