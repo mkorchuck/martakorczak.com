@@ -21,7 +21,7 @@ sections:
     design:
       css_class: indigo
       background:
-        color: #D0C8BB
+        color: #b2bbca
         image:
           # Add your image background to `assets/media/`.
           #filename: Shiny Overlay.svg
