@@ -6,9 +6,9 @@
 ##### TA to the Game Theory course for MRes students 
 ##### taught by David K.Levine, Nov 2022-Jan 2023  
 Some of my teaching materials:  
-[Static games](uploads/Static game-example.pdf)  
-[Mock exam](uploads/Mock exam.pdf)  
-[Mock exam-solutions](uploads/Mock exam-solutions.pdf)  
+[Static games](static/uploads/Static game-example.pdf)  
+[Mock exam](static/uploads/Mock exam.pdf)  
+[Mock exam-solutions](static/uploads/Mock exam-solutions.pdf)  
 
 #### **Econometrics**, New York University (Florence campus)  
 ##### TA to the Econometrics course for graduate students 
