@@ -1,5 +1,5 @@
 
-Teaching
-**Game Theory**, Nov 2022-Jan 2023,
-EUI Department of Economics 
+# Teaching
+
+**Game Theory**, EUI Department of Economics 
 
