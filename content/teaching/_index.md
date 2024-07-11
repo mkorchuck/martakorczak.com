@@ -2,5 +2,7 @@
 # Teaching
 
 
-**Game Theory**, EUI Department of Economics 
+**Game Theory**, EUI
+
+TA to the Game Theory course for MRes students taught by David K.Levine
 
