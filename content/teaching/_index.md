@@ -2,9 +2,10 @@
 ### Teaching
 
 
-- **Game Theory**, European University Institute  
-TA to the Game Theory course for MRes students taught by David K.Levine, Nov 2022-Jan 2023
-> Some of my teaching materials:  
+#### **Game Theory**, European University Institute  
+##### TA to the Game Theory course for MRes students taught by David K.Levine, Nov 2022-Jan 2023
+    ##### Some of my teaching materials:  
+    [Static games](Static game-example.pdf)
 
 - **Econometrics**, New York University (Florence campus)  
 TA to the Econometrics course for graduate students taught by Giampiero Gallo, Sep 2021-Jun 2022
