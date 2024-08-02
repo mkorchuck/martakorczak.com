@@ -11,7 +11,7 @@ Some of my teaching materials:
 [Mock exam-solutions](static/uploads/Mock exam-solutions.pdf)  
 
 #### **Econometrics**, New York University (Florence campus)  
-##### TA to the Econometrics course for graduate students 
+##### TA to the Econometrics course for MA students 
 ##### taught by Giampiero Gallo, Sep 2021-Jun 2022
 
 #### **Econometrics/Statistics**, Warsaw School of Economics  
