@@ -16,4 +16,4 @@ Some of my teaching materials:
 
 #### **Econometrics/Statistics**, Warsaw School of Economics  
 ##### TA to the Econometrics and Statistics course 
-##### for undergraduate students Feb 2017-Jun 2019
+##### for undergraduate students, Feb 2017-Jun 2019
