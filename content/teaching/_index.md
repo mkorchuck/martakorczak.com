@@ -6,7 +6,7 @@
 ##### TA to the Game Theory course for MRes students 
 ##### taught by David K.Levine, Nov 2022-Jan 2023  
 Some of my teaching materials:  
-[Static games](static/uploads/Static game-example.pdf)  
+[Static games](/../static/uploads/Static game-example.pdf)  
 [Mock exam](static/uploads/Mock exam.pdf)  
 [Mock exam-solutions](static/uploads/Mock exam-solutions.pdf)  
 
