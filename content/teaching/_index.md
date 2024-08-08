@@ -9,7 +9,7 @@ design:
   spacing: "3rem"
 
 sections:
-  - block: games
+  - block: markdown
     content:
       button:
         text: Static games
