@@ -1,7 +1,6 @@
 ---
 title: ''
 date: 2024-08-08
-type: landing
 math: false
 ---
 #### **Game Theory**, European University Institute  
