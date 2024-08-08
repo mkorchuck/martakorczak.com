@@ -1,16 +1,17 @@
 ---
-title: Teaching
+title: ''
 date: 2024-08-08
-type: docs
+type: landing
 math: false
 ---
 #### **Game Theory**, European University Institute  
 ##### TA to the Game Theory course for MRes students 
 ##### taught by David K.Levine, Nov 2022-Jan 2023  
+
 ##### Some of my teaching materials: 
-[Static games](/static/uploads/Static%20game-example.pdf)
-[Mock exam](/static/uploads/Mock%20exam.pdf)
-[Mock exam-solutions](/static/uploads/Mock%20exam-solutions.pdf)
+[Static games](/uploads/Static%20game-example.pdf)
+[Mock exam](/uploads/Mock%20exam.pdf)
+[Mock exam-solutions](/uploads/Mock%20exam-solutions.pdf)
 
 #### **Econometrics**, New York University (Florence campus)  
 ##### TA to the Econometrics course for MA students 
