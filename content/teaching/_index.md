@@ -1,7 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
 title: "Teaching"
-date: 2024-08-08
 type: landing
 
 design:
@@ -10,12 +9,10 @@ design:
 
 sections:
   - block: markdown
-    text: **Game Theory**, European University Institute \
- TA to the Game Theory course for MRes students \
- taught by David K.Levine, Nov 2022-Jan 2023  \
- Some of my teaching materials:  \
-
+    content:
+    text: 'Game Theory, European University Institute TA to the Game Theory course for MRes students taught by David K.Levine, Nov 2022-Jan 2023 Some of my teaching materials:'
     button:
         text: Static games
         url: uploads/Static game-example.pdf
+    columns: '1'
 ---
