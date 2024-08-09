@@ -17,7 +17,7 @@ Nottingham Interdisciplinary Centre for Economic and Political Research (NICEP) 
 #### Do High-Stakes Exams Deter Women From Studying Further?
 #### Lessons From Economics PhD Programs
 <span style="font-size:0.8em;"> with [Christina Sarah Hauser](https://sites.google.com/view/christinasarahhauser)\
-*Preregistered #162862 on AsPredicted.org*</span> \ 
+*Preregistered #162862 on AsPredicted.org*</span> \
 <span style="font-size:0.65em;">[draft coming soon]</span> \
 <span style="font-size:0.8em;"> We constructed a survey targeted to master students at Economics departments in Italy in which we ask about the preferences towards a course assessment during a hypothetical Ph.D. program (the weight 100% put on exams or 50% on exams and 50% on research proposal). Among other outcomes, we estimate a "willingness-to-pay" in the foregone amount of scholarship for a given type of assessment. </span> \
 <span style="font-size:0.65em;"> Presented at:\
