@@ -13,6 +13,10 @@ leads to higher rent extraction by politicians. As a result, subsidizing journal
 not increase the equilibrium consumption of news if people can access entertainment
 from other sources. I discuss potential policies to enhance public scrutiny and thereby
 improve voter welfare. This framework helps explain the ongoing decline of local journalism in many democratic countries.</span>
+Presented at:\
+Nottingham Interdisciplinary Centre for Economic and Political Research (NICEP) 2024 conference
 
-
-#### 
+#### Do High-Stakes Exams Deter Women From Studying Further?
+#### Lessons From Economics PhD Programs
+joint with [Christina Sarah Hauser](https://sites.google.com/view/christinasarahhauser)
+Preregistered #162862 on AsPredicted.org. 
