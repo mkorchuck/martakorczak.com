@@ -4,8 +4,8 @@ date: 2024-08-08
 math: false
 ---
 #### Preferences over Media Content and Political Accountability
-<sub><sup>[draft coming soon]</sup></sub> 
-##### Abstract:
+<span style="font-size:0.7em;">[draft coming soon]<\span>
+Abstract:\
 <span style="font-size:0.7em;">Media have become more segmented with news and entertainment content easier to access separately and, therefore, easier to substitute. In this paper, I study how relative demand for news and entertainment affects political accountability. In a two-period
 principal-agent model, voters allocate their time between news and entertainment.
 This affects an incumbent politician’s behavior as the news might inform about political corruption. When entertainment is favored over news, the greater substitutability
