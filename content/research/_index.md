@@ -28,6 +28,6 @@ Behavioral and Experimental Economics Network (BEEN) workshop, University of Tur
 <span style="font-size:0.65em;"> Presented at:\
 Political Economy reading group at Department of Economics at SciencesPo </span>
 
-#### Impact of abortion restriction in Poland on health outcomes of infants and mothers
+#### Impact of abortion restrictions in Poland on health outcomes of infants and women
 <span style="font-size:0.8em;"> with [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home)\
 Using data at the hospital level, we investigate the impact of abortion restriction legislation in Poland in January 2021 on the number of infants in grave health conditions and the reproduction health of women. </span>
