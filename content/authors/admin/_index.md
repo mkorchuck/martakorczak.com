@@ -73,4 +73,4 @@ In the past I worked at the Polish central bank and at the International Monetar
 #### Upcoming talks:
 December 2024: X Hurwicz Workshop on Mechanism Design Theory, Warsaw
 \
-January 2025: UniCatt Political Economy Research Day, Milano
+January 2025: UniCatt Political Economy Research Day, Milan
