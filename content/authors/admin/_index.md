@@ -70,8 +70,7 @@ Welcome to my website. I am a PhD candidate in Economics at European University 
 I use micro-econometric and experimental tools, as well as microeconomic theory, to answer questions from areas of political economy, public economics and gender.\
 \
 In the past I worked at the Polish central bank and at the International Monetary Fund in Warsaw. Then, I went to Barcelona to train as an applied microeconomist and I continued my path in academia as a PhD student in Florence.
-\
-# Upcoming talks:
+#### Upcoming talks:
 December 2024: X Hurwicz Workshop on Mechanism Design Theory, Warsaw
 \
 January 2025: UniCatt Political Economy Research Day, Milano
