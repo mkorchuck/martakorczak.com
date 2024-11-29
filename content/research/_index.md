@@ -5,7 +5,7 @@ math: false
 ---
 #### Separating News from Entertainment:
 #### The Political Risks of Unbundled Media Consumption
-<span style="font-size:0.65em;">[draft coming soon]</span> \
+<span style="font-size:0.65em;">[Draft-November 2024](/workspaces/martakorczak.com/static/uploads/Media_paper_Nov29.pdf)</span> \
 <span style="font-size:0.8em;">  This paper investigates the political implications of unbundling news and entertainment in the era of digital media. I use a two-period principal-agent model to analyze the effects of voters' time allocation between entertainment and news on political accountability. Increasing substitutability between news and entertainment reduces public scrutiny and enables politicians to engage in rent-seeking behavior if voters prefer entertainment. The model rationalizes the empirical decline of local journalism, highlighting the limits of conventional policy interventions like subsidizing news production. The findings emphasize the need for targeted strategies to reshape consumer preferences for news, which would enhance the media's role in democratic accountability. This research contributes to the political economy of media literature by reframing voter information acquisition as an opportunity cost problem influenced by evolving media markets.</span> \
 <span style="font-size:0.65em;"> Presented at:\
 Nottingham Interdisciplinary Centre for Economic and Political Research (NICEP) 2024 conference \
