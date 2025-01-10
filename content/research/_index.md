@@ -3,21 +3,19 @@ title: ''
 date: 2024-08-08
 math: false
 ---
-#### Separating News from Entertainment:
-#### The Political Risks of Unbundled Media Consumption
+#### The Political Risks of Separating
+#### (Local) News from Entertainment
 <span style="font-size:1em;">[Draft-November 2024](/uploads/Media_paper_Nov29.pdf)</span> \
-<span style="font-size:0.7em;">  Voters no longer rely on daily TV news broadcasts or newspapers to learn about political matters. In 2023, the average American devoted merely 37% of daily media consumption time to traditional media channels, a significant decline from 68% in 2011. This trend reflects a broader change in media markets: where traditional media once bun-
-dled news with entertainment—compelling viewers to consume both—digital technologies
+<span style="font-size:0.7em;">  Voters no longer rely on daily TV news broadcasts or newspapers to learn about political matters. In 2023, the average American devoted merely 37% of daily media consumption time to traditional media channels, a significant decline from 68% in 2011. This trend reflects a broader change in media markets: where traditional media once bundled news with entertainment—compelling viewers to consume both—digital technologies
 now enable more granular, independent consumption patterns. Consumers can now selec-
 tively subscribe to movie streaming services or specialized news platforms, rendering news
-and entertainment increasingly economic substitutes. In this paper I show how this de-
-coupling of media consumption can affect political outcomes, focusing on the rent-seeking
+and entertainment increasingly economic substitutes. In this paper I show how this decoupling of media consumption can affect political outcomes, focusing on the rent-seeking
 behavior of politicians. My results are especially relevant for relatively smaller constituencies
 (subnational: regional or municipal), where political journalism might be at larger risk of
 bankruptcy than at the national or international level. </span> \
 <span style="font-size:0.65em;"> Presented at:\
 Nottingham Interdisciplinary Centre for Economic and Political Research (NICEP) 2024 conference \
-IX Hurwicz Workshop on Mechanism Design Theory in Warsaw (upcoming)\
+IX Hurwicz Workshop on Mechanism Design Theory in Warsaw \
 UniCatt Political Economy Research Day in Milan (upcoming)
 </span>
 
