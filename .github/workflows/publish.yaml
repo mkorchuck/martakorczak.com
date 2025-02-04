@@ -70,6 +70,19 @@ jobs:
         with:
           path: ./public
           name: github-pages  # Add this line
+          
+      - name: Confirm Hugo Output Directory
+        run: |
+          if [ -d "./public" ]; then
+          echo "Public directory exists."
+          else
+          echo "Public directory does NOT exist!"
+          exit 1
+          fi
+      - name: Clear GitHub Actions Cache
+        run: |
+          rm -rf ~/.cache
+    
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
