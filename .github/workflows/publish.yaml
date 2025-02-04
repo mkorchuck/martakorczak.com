@@ -26,29 +26,25 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: ${{ env.WC_HUGO_VERSION }}
-          extended: true
-    
-      # Add the debugging step here
-      - name: List installed dependencies
-        run: |
-          npm list -g --depth=0
-          hugo version
 
+      # Manually set up Hugo
+      - name: Setup Hugo
+        run: |
+          wget https://github.com/gohugoio/hugo/releases/download/v${{ env.WC_HUGO_VERSION }}/hugo_extended_${{ env.WC_HUGO_VERSION }}_Linux-64bit.tar.gz
+          tar -xvzf hugo_extended_${{ env.WC_HUGO_VERSION }}_Linux-64bit.tar.gz
+          sudo mv hugo /usr/local/bin/
+
+      # Manually configure Pages
       - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
+        run: |
+          echo "base_url=https://${{ github.repository_owner }}.github.io/${{ github.repository }}" >> $GITHUB_ENV
 
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+          hugo --minify --baseURL "${{ env.base_url }}/"
 
       - name: List files after Hugo build
         run: ls -R
