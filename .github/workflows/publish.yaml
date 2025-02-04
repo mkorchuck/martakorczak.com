@@ -12,6 +12,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  actions: read  # Add this line to grant artifact access
 
 concurrency:
   group: "pages"
@@ -95,6 +96,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v3
-        
+        with:
+          artifact_name: github-pages
       - name: List files
         run: ls -R
