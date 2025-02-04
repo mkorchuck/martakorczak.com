@@ -71,6 +71,10 @@ jobs:
         with:
           path: ./public
           name: github-pages  # Add this line
+      - name: Verify Artifact Upload
+        run: |
+          echo "Listing artifacts..."
+          gh api repos/${{ github.repository }}/actions/artifacts
           
       - name: Confirm Hugo Output Directory
         run: |
@@ -86,12 +90,14 @@ jobs:
     
 
   deploy:
+    needs: build
+    runs-on: ubuntu-latest
     if: github.repository_owner != 'HugoBlox'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
+    
+    
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
