@@ -33,6 +33,12 @@ jobs:
           hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
 
+      # Add the debugging step here
+      - name: List installed dependencies
+        run: |
+          npm list -g --depth=0
+          hugo version
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
