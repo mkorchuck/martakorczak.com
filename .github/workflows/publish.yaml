@@ -55,6 +55,12 @@ jobs:
       - name: List files after Hugo build
         run: ls -R ./public
 
+      # Debug: Confirm public directory exists and contains files
+      - name: Debug public directory
+        run: |
+          echo "Contents of public directory:"
+          ls -R ./public
+
       - name: Generate Pagefind search index
         run: npx pagefind --site "public"
 
