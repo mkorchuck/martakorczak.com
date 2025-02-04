@@ -1,7 +1,7 @@
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.121.2'  # Updated to a valid version
+  WC_HUGO_VERSION: '0.135.5'  # Updated to the desired version
 
 on:
   push:
@@ -33,6 +33,11 @@ jobs:
           wget https://github.com/gohugoio/hugo/releases/download/v${{ env.WC_HUGO_VERSION }}/hugo_extended_${{ env.WC_HUGO_VERSION }}_Linux-64bit.tar.gz
           tar -xvzf hugo_extended_${{ env.WC_HUGO_VERSION }}_Linux-64bit.tar.gz
           sudo mv hugo /usr/local/bin/
+
+      # Clear Hugo cache
+      - name: Clear Hugo cache
+        run: |
+          rm -rf /tmp/hugo_cache_runner/
 
       # Manually configure Pages
       - name: Setup Pages
