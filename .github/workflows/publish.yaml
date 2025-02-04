@@ -49,7 +49,7 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-          hugo --minify --baseURL "${{ env.base_url }}/"
+          hugo --minify --baseURL "${{ env.base_url }}"
 
       # Debug: List files in the public directory
       - name: List files after Hugo build
@@ -69,6 +69,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+          name: github-pages  # Add this line
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
@@ -80,6 +81,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v3
+        
       - name: List files
         run: ls -R
