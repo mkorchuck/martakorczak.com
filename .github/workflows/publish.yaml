@@ -67,7 +67,7 @@ jobs:
 
       # Upload the public directory as an artifact
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
           name: github-pages  # Add this line
