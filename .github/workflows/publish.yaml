@@ -1,7 +1,7 @@
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.143.1'  # Updated to the desired version
+  WC_HUGO_VERSION: '0.125.0'  # Updated to a valid version
 
 on:
   push:
@@ -51,13 +51,14 @@ jobs:
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ env.base_url }}/"
 
+      # Debug: List files in the public directory
       - name: List files after Hugo build
-        run: ls -R
+        run: ls -R ./public
 
       - name: Generate Pagefind search index
         run: npx pagefind --site "public"
 
-      # Replace upload-pages-artifact with upload-artifact
+      # Upload the public directory as an artifact
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
