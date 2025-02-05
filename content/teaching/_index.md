@@ -11,6 +11,10 @@ Some of my teaching materials:\
 [Mock exam](/uploads/Mock%20exam.pdf)\
 [Mock exam-solutions](/uploads/Mock%20exam-solutions.pdf)
 
+#### **Economics for Policy I**, Florence School of Transnational Governance
+##### TA to the Economics for Policy I course for MA students 
+##### taught by Daniela Iorio and Tommaso Nannicini, Sep 2024-Dec 2024
+
 #### **Econometrics**, New York University (Florence campus)  
 ##### TA to the Econometrics course for MA students 
 ##### taught by Giampiero Gallo, Sep 2021-Jun 2022
