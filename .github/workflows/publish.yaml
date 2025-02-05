@@ -72,6 +72,8 @@ jobs:
           path: ./public
           name: github-pages  # Add this line
       - name: Verify Artifact Upload
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Add this line
         run: |
           echo "Listing artifacts..."
           gh api repos/${{ github.repository }}/actions/artifacts
