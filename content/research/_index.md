@@ -3,8 +3,7 @@ title: ''
 date: 2024-08-08
 math: false
 ---
-#### The Political Risks of Separating
-#### (Local) News from Entertainment
+#### The Political Risks of Separating<br>(Local) News from Entertainment
 <span style="font-size:0.7em;">  Voters no longer rely on daily TV news broadcasts or newspapers to learn about political matters. In 2023, the average American devoted merely 37% of daily media consumption time to traditional media channels, a significant decline from 68% in 2011. This trend reflects a broader change in media markets: where traditional media once bundled news with entertainment—compelling viewers to consume both—digital technologies
 now enable more granular, independent consumption patterns. Consumers can now selectively subscribe to movie streaming services or specialized news platforms, rendering news
 and entertainment increasingly economic substitutes. In this paper I show how this decoupling of media consumption can affect political outcomes, focusing on the rent-seeking
