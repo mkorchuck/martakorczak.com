@@ -13,10 +13,7 @@ UniCatt Political Economy Research Day in Milan
 
 #### Is Your Faculty All Male Because of Tenure Requirements?<br>Experimental Evidence From Economics Job Market Candidates
 <span style="font-size:0.8em;"> with [Maria Cubel](https://sites.google.com/site/mariacubel/home) and [Christina Sarah Hauser](https://sites.google.com/view/christinasarahhauser)\
-We investigate the effect of tenure requirements on the supply of female candidates for academic positions in Economics. Economic research is known for having a “leaky pipeline”: Despite high early-stage academic achievements, only few women reach tenured positions. Within a hypothetical choice experiment, we aim to quantify the willingness of PhD candidates in economics to give up salary, low teaching loads, or prestigious positions for jobs
-with less stringent tenure requirements. We hypothesize that high publication requirements
-for tenure deter female economists from pursuing a career in academia. Our findings aim to
-inform policies to retain female talent in academia. </span>
+We investigate the effect of tenure requirements on the supply of female candidates for academic positions in Economics. Economic research is known for having a “leaky pipeline”: Despite high early-stage academic achievements, only few women reach tenured positions. Within a hypothetical choice experiment, we aim to quantify the willingness of PhD candidates in economics to give up salary, low teaching loads, or prestigious positions for jobs with less stringent tenure requirements. We hypothesize that high publication requirements for tenure deter female economists from pursuing a career in academia. Our findings aim to inform policies to retain female talent in academia. </span>
 
 #### Loss of capital status: does it matter for a city's development?
 [Extended abstract](/uploads/Loss%20of%20capital_Extended%20abstract.pdf)\
