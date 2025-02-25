@@ -71,5 +71,4 @@ I use micro-econometric and experimental tools, as well as microeconomic theory,
 \
 In the past I worked at the Polish central bank and at the International Monetary Fund in Warsaw. Then, I went to Barcelona to train as an applied microeconomist and I continued my path in academia as a PhD student in Florence. I spent the Spring 2024 term at the Department of Economics at SciencesPo in Paris.
 #### Upcoming talks:
-February 2025: ICES Brown Bag Lecture, George Mason University \
 March 2025: Microeconometrics Working Group, EUI
