@@ -69,6 +69,6 @@ education:
 Welcome to my website. I am a PhD candidate in Economics at European University Institute in Florence. My supervisors are [David K. Levine](http://www.dklevine.com/david.htm) and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home).\
 I use micro-econometric and experimental tools, as well as microeconomic theory, to answer questions from areas of political economy, public economics and gender.\
 \
-In the past I worked at the Polish central bank and at the International Monetary Fund in Warsaw. Then, I went to Barcelona to train as an applied microeconomist and I continued my path in academia as a PhD student in Florence. I spent spring 2024 at the Department of Economics at SciencesPo in Paris.
+In the past I worked at the Polish central bank and at the International Monetary Fund in Warsaw. Then, I went to Barcelona to train as an applied microeconomist and I continued my path in academia as a PhD student in Florence. During my PhD, I visited SciencesPo in Paris and George Mason University in Washington, DC.
 #### Upcoming talks:
-April 2025: Microeconometrics Working Group, EUI
+July 2025: Women in Experimental Economics workshop, City University of London
