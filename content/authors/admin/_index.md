@@ -71,7 +71,7 @@ I use micro-econometric and experimental tools, as well as microeconomic theory,
 \
 In the past I worked at the Polish central bank and at the International Monetary Fund in Warsaw. Then, I went to Barcelona to train as an applied microeconomist and I continued my path in academia as a PhD student in Florence. During my PhD, I visited SciencesPo in Paris and George Mason University in Washington, DC.
 #### Upcoming talks:
-June 2025: EUI Alumni Conference (poster session), Florence \ 
-July 2025: Women in Experimental Economics workshop, City University of London \ 
+June 2025: EUI Alumni Conference (poster session), Florence \
+July 2025: Women in Experimental Economics workshop, City University of London \
 July 2025: IMD Days (poster session), Warsaw \
 August 2025: 4th RUCAM Political Economy Workshop 2025, Radboud University
