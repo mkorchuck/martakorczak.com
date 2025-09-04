@@ -3,10 +3,9 @@ title: ''
 date: 2024-08-08
 math: false
 ---
-#### Losing capital status: does it matter for a city's development?
-<span style="font-size:0.8em;">In 1999, the number of first-level administrative regions in Poland was reduced from 49 to 16. As a result, 31 cities lost the status of capital ("ex-capitals"). This was followed by, inter alia, the decline in employment in local public administration, lower transfers from the central government, and, since 2004, lack of opportunity to manage EU funds. Moreover, the reform also changed a two-tier system of administrative division into three-tier. All "ex-capitals" became capitals of second-tier regions, together with other 35 municipalities. While the reform improved the overall efficiency of public administration, its impact on the "losing" municipalities has not been explored in the economics literature. As few "natural experiments" exist, there is little evidence on how the loss of capital status can affect a city's development This paper contributes to the literature with a causal analysis of the impact of the loss of capital status on a wide range of socioeconomic outcomes.
-\
-I use data from the Main Statistical Office in Poland. The part covering 1990-2000 is novel, digitized from the Office's archives. This dataset covers around 100 variables describing the labor market, living conditions, real estate market, healthcare, education, culture, and demographics. </span>\
+#### Losing capital status: does it matter for a city's development?\
+#### [Draft - August 2025]](/uploads/Capitals_draft_August.pdf)\
+<span style="font-size:0.8em;"> How do changes in the administrative hierarchy of cities impact their development? This paper focuses on losing a regional capital status, using the context of the 1999 administrative reform in Poland.  Exploiting variation in administrative statuses, I compare ex-capitals to newly created ``city-counties" and county seats to construct a causal estimate of losing capital status. I find that ex-capital cities experienced a persistent decline in public sector activity, female labor force participation, fertility, and local public good provision, despite receiving higher central government transfers. These results are consistent with a simple theoretical model where a fall in administrative capacity induces sectoral employment reallocation and delayed migration responses. The findings highlight that administrative status is important for city-level development and that the loss of such status has negative consequences, even when paired with increased fiscal autonomy. </span>\
 <span style="font-size:0.65em;"> Presented at:\
 Political Economy reading group at Department of Economics at SciencesPo \
 ICES Brown Bag Lecture, George Mason University \
