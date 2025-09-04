@@ -14,12 +14,8 @@ EUI Alumni Conference \
 IMD Days in Warsaw
  </span>
 
-
-
-
-
-
 #### The Political Risks of Separating News from Entertainment
+##### [Draft - August 2025](/uploads/Media_draft_August.pdf)
 <span style="font-size:0.8em;"> One of the aspects of the ongoing digital revolution is the easier separability of media content. I focus on news and entertainment: how consumer preferences can affect political accountability if both of these contents become easily substitutable? Using a two-period electoral accountability model, I analyze how voters' attention allocation between these two options influences an incumbent politician's effort. 
 The model shows that when entertainment is favored over news, the increased substitutability leads to lower welfare for voters. However, a very high demand for news might motivate a bad incumbent to exert too much effort, boosting her re-election probabilities. This is not good for voters, as a re-elected bad incumbent never exerts any effort in the second period. I also show how the distribution of interest in the public good among voters matters for the demand for news: in the context I study, it is the most stable when the distribution is uniform. Therefore, with the interest in public good widely dispersed in the population, the public scrutiny is stronger. </span> \
 <span style="font-size:0.65em;"> Presented at:\
