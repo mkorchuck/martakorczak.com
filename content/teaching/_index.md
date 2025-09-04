@@ -8,6 +8,7 @@ math: false
 ##### taught by David K. Levine, Nov 2022-Jan 2023.
 Some of my teaching materials:\
 [Static games](/uploads/Static%20game-example.pdf)\
+[How to find MSNE in a multiple strategies game - example](/uploads/Big_MSNE.pdf)\
 [Mock exam](/uploads/Mock%20exam.pdf)\
 [Mock exam-solutions](/uploads/Mock%20exam-solutions.pdf)
 
