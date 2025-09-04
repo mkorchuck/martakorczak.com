@@ -9,7 +9,7 @@ math: false
 <span style="font-size:0.65em;"> Presented at:\
 Political Economy reading group at Department of Economics at SciencesPo \
 ICES Brown Bag Lecture, George Mason University \
-EUI Microeconometrics Working Group \ 
+EUI Microeconometrics Working Group \
 EUI Alumni Conference \
 IMD Days in Warsaw
  </span>
@@ -28,10 +28,9 @@ UniCatt Political Economy Research Day in Milan
 <span style="font-size:0.8em;"> with [Maria Cubel](https://sites.google.com/site/mariacubel/home) and [Christina Sarah Hauser](https://sites.google.com/view/christinasarahhauser)\
 We investigate the effect of tenure requirements on the supply of female candidates for academic positions in Economics. Economic research is known for having a “leaky pipeline”: Despite high early-stage academic achievements, only few women reach tenured positions. Within a hypothetical choice experiment, we aim to quantify the willingness of PhD candidates in economics to give up salary, low teaching loads, or prestigious positions for jobs with less stringent tenure requirements. We hypothesize that high publication requirements for tenure deter female economists from pursuing a career in academia. Our findings aim to inform policies to retain female talent in academia. </span>
 
-
-#### Abortion ban and health outcomes of women and infants
+#### Quasi-total Abortion Ban in Poland and Health of Women and Infants
 <span style="font-size:0.8em;"> with and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home)\
-Poland and fourteen U.S. states have restricted abortion in 2021 and 2022, making them the only high-income countries having passed regressive reproduction laws in recent years. In the case of Poland, the abortion law before the restriction had already been one of the strictest in Europe. The 2021 restriction furthermore banned abortions on embryo-pathological grounds, which in 2019 constituted 98% of legal abortions in Poland. Now abortion is only permitted in cases of rape, incest, or a threat to the mother’s health and life. How has this law affected the health outcomes of infants and women? We answer this question with hospital-level data in Poland. This study aims to contribute to the relatively scarce literature on the impact ofrestrictive abortion laws on the health outcomes of both infants and women in a high-income country. </span>\
+What happens when restrictive reproductive laws in a developed country become one of the most restrictive in the world? We study the impact of the 2021 quasi-total abortion ban in Poland, which prohibited terminations on the grounds of fetal anomaly, previously accounting for the vast majority of legal abortions. Using monthly administrative records from all Polish hospitals between 2017 and 2023, we document an immediate and near-complete collapse of legal abortions following the ruling. In an event-study framework that exploits regional variation in pre-ban access, we find no meaningful changes in the number of births or miscarriages, but detect short-run increases in neonatal and birth mortality. However, these effects are not persistent, and our results overall do not reveal robust or lasting impacts on maternal or infant health outcomes, beyond the sharp reduction in abortion availability. </span>\
 <span style="font-size:0.65em;"> Presented at:\
 Health Econonomics of Risky Health Behavior workshop, University of Bologna
 </span>
