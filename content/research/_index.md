@@ -3,6 +3,23 @@ title: ''
 date: 2024-08-08
 math: false
 ---
+#### Losing capital status: does it matter for a city's development?
+<span style="font-size:0.8em;">In 1999, the number of first-level administrative regions in Poland was reduced from 49 to 16. As a result, 31 cities lost the status of capital ("ex-capitals"). This was followed by, inter alia, the decline in employment in local public administration, lower transfers from the central government, and, since 2004, lack of opportunity to manage EU funds. Moreover, the reform also changed a two-tier system of administrative division into three-tier. All "ex-capitals" became capitals of second-tier regions, together with other 35 municipalities. While the reform improved the overall efficiency of public administration, its impact on the "losing" municipalities has not been explored in the economics literature. As few "natural experiments" exist, there is little evidence on how the loss of capital status can affect a city's development This paper contributes to the literature with a causal analysis of the impact of the loss of capital status on a wide range of socioeconomic outcomes.
+\
+I use data from the Main Statistical Office in Poland. The part covering 1990-2000 is novel, digitized from the Office's archives. This dataset covers around 100 variables describing the labor market, living conditions, real estate market, healthcare, education, culture, and demographics. </span>\
+<span style="font-size:0.65em;"> Presented at:\
+Political Economy reading group at Department of Economics at SciencesPo \
+ICES Brown Bag Lecture, George Mason University \
+EUI Microeconometrics Working Group \ 
+EUI Alumni Conference \
+IMD Days in Warsaw
+ </span>
+
+
+
+
+
+
 #### The Political Risks of Separating (Local) News from Entertainment
 <span style="font-size:0.8em;"> This paper examines how consumer preferences for news and entertainment affect political accountability, particularly in the context of the transition from traditional to digital media. As news and entertainment content are easier to access separately, consumers can more readily substitute news with entertainment. Using a two-period principal-agent model, I analyze how voters' time allocation between these two options influences an incumbent politician's rent-seeking behavior. The model shows that when entertainment is favored over news, the increased substitutability leads to higher rent-seeking behavior by politicians. As a result, subsidizing journalism may fail to boost news consumption if entertainment remains easily accessible. I conclude by discussing potential policy interventions aimed at strengthening public scrutiny and improving voter welfare. This framework helps explain the ongoing decline of local journalism in many democratic countries. </span> \
 <span style="font-size:0.65em;"> Presented at:\
@@ -15,15 +32,6 @@ UniCatt Political Economy Research Day in Milan
 <span style="font-size:0.8em;"> with [Maria Cubel](https://sites.google.com/site/mariacubel/home) and [Christina Sarah Hauser](https://sites.google.com/view/christinasarahhauser)\
 We investigate the effect of tenure requirements on the supply of female candidates for academic positions in Economics. Economic research is known for having a “leaky pipeline”: Despite high early-stage academic achievements, only few women reach tenured positions. Within a hypothetical choice experiment, we aim to quantify the willingness of PhD candidates in economics to give up salary, low teaching loads, or prestigious positions for jobs with less stringent tenure requirements. We hypothesize that high publication requirements for tenure deter female economists from pursuing a career in academia. Our findings aim to inform policies to retain female talent in academia. </span>
 
-#### Losing capital status: does it matter for a city's development?
-<span style="font-size:0.8em;">In 1999, the number of first-level administrative regions in Poland was reduced from 49 to 16. As a result, 31 cities lost the status of capital ("ex-capitals"). This was followed by, inter alia, the decline in employment in local public administration, lower transfers from the central government, and, since 2004, lack of opportunity to manage EU funds. Moreover, the reform also changed a two-tier system of administrative division into three-tier. All "ex-capitals" became capitals of second-tier regions, together with other 35 municipalities. While the reform improved the overall efficiency of public administration, its impact on the "losing" municipalities has not been explored in the economics literature. As few "natural experiments" exist, there is little evidence on how the loss of capital status can affect a city's development This paper contributes to the literature with a causal analysis of the impact of the loss of capital status on a wide range of socioeconomic outcomes.
-\
-I use data from the Main Statistical Office in Poland. The part covering 1990-2000 is novel, digitized from the Office's archives. This dataset covers around 100 variables describing the labor market, living conditions, real estate market, healthcare, education, culture, and demographics. </span>\
-<span style="font-size:0.65em;"> Presented at:\
-Political Economy reading group at Department of Economics at SciencesPo \
-ICES Brown Bag Lecture, George Mason University \
-EUI Microeconometrics Working Group
- </span>
 
 #### Abortion ban and health outcomes of women and infants
 <span style="font-size:0.8em;"> with and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home)\

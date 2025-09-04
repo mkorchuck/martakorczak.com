@@ -38,8 +38,8 @@ profiles:
   
 
 interests:
+  - Public/Urban Economics
   - Political Economy
-  - Public and Urban Economics
   - Gender
 
 education:
