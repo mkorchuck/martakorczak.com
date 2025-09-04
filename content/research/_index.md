@@ -3,8 +3,8 @@ title: ''
 date: 2024-08-08
 math: false
 ---
-#### Losing capital status: does it matter for a city's development?\
-#### [Draft - August 2025]](/uploads/Capitals_draft_August.pdf)\
+#### Losing capital status: does it matter for a city's development?
+### [Draft - August 2025](/uploads/Capitals_draft_August.pdf)
 <span style="font-size:0.8em;"> How do changes in the administrative hierarchy of cities impact their development? This paper focuses on losing a regional capital status, using the context of the 1999 administrative reform in Poland.  Exploiting variation in administrative statuses, I compare ex-capitals to newly created ``city-counties" and county seats to construct a causal estimate of losing capital status. I find that ex-capital cities experienced a persistent decline in public sector activity, female labor force participation, fertility, and local public good provision, despite receiving higher central government transfers. These results are consistent with a simple theoretical model where a fall in administrative capacity induces sectoral employment reallocation and delayed migration responses. The findings highlight that administrative status is important for city-level development and that the loss of such status has negative consequences, even when paired with increased fiscal autonomy. </span>\
 <span style="font-size:0.65em;"> Presented at:\
 Political Economy reading group at Department of Economics at SciencesPo \
