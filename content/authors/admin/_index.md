@@ -33,10 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:marta.korczak@eui.eu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/marta_korczak
-  - icon: /assets/media/icons/bluesky.svg
-    url: https://bsky.app/profile/martakorczak.bsky.social
   
 
 interests:
