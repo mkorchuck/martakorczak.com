@@ -48,4 +48,4 @@ Russia’s invasion of Ukraine caused an enormous inflow of refugees into Poland
 
 <span style="font-size:0.8em;">[Short presentation of results of a pilot study "Do High-Stakes Exams Deter Women
 From Studying Further?
-Lessons From Economics PhD Programs" at University of Turin](/uploads/Torino_presentation.pdf)</span>
+Lessons From Economics PhD Programs" at University of Turin](/uploads/Torino_Presentation.pdf)</span>
