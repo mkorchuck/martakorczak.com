@@ -5,7 +5,7 @@ math: false
 ---
 ### Ongoing projects:
 #### *Losing capital status: does it matter for a city's development?*
-##### [Draft - August 2025](/uploads/Capitals_Draft_Sep.pdf)
+##### [Draft - September 2025](/uploads/Capitals_Draft_Sep.pdf)
 ##### [YouTube one minute pitch](https://youtube.com/shorts/0yTwwomp1AY?si=NkaD-CqYN2fD2u4_)
 
 <span style="font-size:0.8em;">How do changes in the administrative hierarchy of cities impact their development?
