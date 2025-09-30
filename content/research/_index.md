@@ -8,11 +8,7 @@ math: false
 ##### [Draft - September 2025](/uploads/Job_Market_Paper_Marta_Korczak.pdf)
 ##### [YouTube one minute pitch](https://youtube.com/shorts/0yTwwomp1AY?si=NkaD-CqYN2fD2u4_)
 
-<span style="font-size:0.8em;">How do changes in the administrative hierarchy of cities impact their development?
-This paper focuses on losing a regional capital status, using the context of the 1999 administrative reform in Poland. Exploiting variation in administrative statuses, I compare ex-capitals to newly created "city-counties" and county seats to construct a causal estimate of losing capital status. I find that ex-capital cities experienced a persistent decline in public sector activity, female employment, fertility, and local public good provision, despite receiving higher central government transfers relative to control cities. These results are consistent with a simple theoretical model where a fall in administrative capacity induces sectoral employment reallocation and delayed
-migration responses. The findings highlight that administrative status is important for
-city-level development and that the loss of such status has negative consequences, even
-when paired with increased fiscal autonomy.</span>\
+<span style="font-size:0.8em;">How do changes in the administrative hierarchy of cities impact their development? This paper focuses on the loss of regional capital status, using the context of the 1999 administrative reform in Poland.  Exploiting variation in administrative status, I compare ex-capitals to control cities to construct a causal estimate of the loss of capital status. I find that ex-capital cities experienced a persistent decline in public sector activity, female employment, fertility, and local public good provision, despite receiving higher central government transfers relative to control cities. These results are consistent with a simple theoretical model in which a decline in administrative capacity induces sectoral employment reallocation and delayed migration responses. The findings highlight that administrative status is crucial for city-level development and that the loss of such status has negative consequences, even when accompanied by increased fiscal autonomy.</span>\
 <span style="font-size:0.65em;"> Presented at:\
 Political Economy reading group at Department of Economics at SciencesPo \
 ICES Brown Bag Lecture, George Mason University \
