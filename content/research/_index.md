@@ -4,7 +4,7 @@ date: 2024-08-08
 math: false
 ---
 ### Ongoing projects:
-#### *Losing capital status: does it matter for a city's development?*
+#### *Losing Capital Status: Does it Matter for a City's Development?*
 ##### [Draft - October 2025](/uploads/Job_Market_Paper_Marta_Korczak.pdf)
 ##### [YouTube one minute pitch](https://youtube.com/shorts/0yTwwomp1AY?si=NkaD-CqYN2fD2u4_)
 
