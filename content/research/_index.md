@@ -30,7 +30,7 @@ What happens when reproductive laws in a developed country become one of the mos
 #### *An evaluation of integration policies for Ukrainian refugee children in Poland*
 <span style="font-size:0.8em;"> with Agnieszka Kozakoszczak, Urszula Markowska-Manista, [Mikołaj Pawlak](http://mikolajpawlak.bio.uw.edu.pl/), Zuzanna Samson and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home)\
 [Website of the project](https://www.eui.eu/research-hub?id=an-evaluation-of-integration-policies-for-ukrainian-refugee-children-in-poland-1)\
-<span style="font-size:0.65em;"> Presented at: Identity and Conflict Lab at Yale Conference on Immigration (upcoming)
+<span style="font-size:0.65em;"> Presented at: Research Seminar: Evaluation of integration policies for Ukrainian refugees at University of Warsaw, Identity and Conflict Lab at Yale Conference on Immigration (upcoming)
 </span>
 
 ### Other work:
