@@ -8,7 +8,7 @@ math: false
 ##### [Draft - October 2025](/uploads/Job_Market_Paper_Marta_Korczak.pdf)
 ##### [YouTube one minute pitch](https://youtube.com/shorts/0yTwwomp1AY?si=NkaD-CqYN2fD2u4_)
 
-<span style="font-size:0.65em;"> Presented at: Political Economy reading group at Department of Economics at SciencesPo, ICES Brown Bag Lecture, George Mason University, EUI Microeconometrics Working Group, EUI Alumni Conference, IMD Days in Warsaw, City St George's University of London (upcoming)
+<span style="font-size:0.65em;"> Presented at: Department of Economics at SciencesPo, ICES Brown Bag Lecture, George Mason University, EUI Microeconometrics Working Group, EUI Alumni Conference, IMD Days in Warsaw, City St George's University of London (upcoming)
  </span>
 
 #### *The Political Risks of Separating News from Entertainment*
