@@ -12,7 +12,7 @@ math: false
  </span>
 
 #### *The Political Risks of Separating News from Entertainment*
-##### [Draft - August 2025](/uploads/Media_draft_August.pdf)
+##### [Draft - January 2026](/uploads/Media_draft_August.pdf)
 <span style="font-size:0.65em;"> Presented at: Nottingham Interdisciplinary Centre for Economic and Political Research (NICEP) 2024 conference, IX Hurwicz Workshop on Mechanism Design Theory in Warsaw, UniCatt Political Economy Research Day in Milan
 </span>
 
