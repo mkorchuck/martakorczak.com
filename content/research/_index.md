@@ -22,7 +22,7 @@ We investigate the effect of tenure requirements on the supply of female candida
 <span style="font-size:0.65em;"> Presented at: Women in Behavioral & Experimental Economics Workshop at City St George's University of London
 </span>
 #### *Quasi-total Abortion Ban in Poland and Health of Women and Infants*
-<span style="font-size:0.8em;"> with [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home)\
+<span style="font-size:0.8em;"> with Monika Raulinajtys-Grzybek and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home)\
 What happens when reproductive laws in a developed country become one of the most restrictive in the world? We study the impact of the 2021 quasi-total abortion ban in Poland, which prohibited terminations on the grounds of fetal anomaly, previously accounting for the vast majority of legal abortions. Using monthly administrative records from all Polish hospitals between 2017 and 2023, we document an immediate and near-complete collapse of legal abortions following the ruling. In an event-study framework that exploits regional variation in pre-ban access, we find no significant changes in the number of births or miscarriages; however, we detect increases in neonatal and infant mortality. Overall, our results do not reveal robust or lasting impacts on maternal or infant health outcomes, beyond the sharp reduction in abortion availability. </span>\
 <span style="font-size:0.65em;"> Presented at: Health Econonomics of Risky Health Behavior workshop at University of Bologna, 7th Dondena Workshop on Public Policy at Bocconi University
 </span>
