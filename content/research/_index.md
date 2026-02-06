@@ -34,7 +34,7 @@ What happens when reproductive laws in a developed country become one of the mos
 </span>
 
 ### Other work:
-<span style="font-size:0.8em;">[Comment to “Forced Migration and Human Capital: Evidence from Post-WWII Population Transfers” by S.O. Becker, I. Grosfeld, P. Grosjean, N. Voigtlander and E. Zhuravskaya, American Economic Review 2020](/uploads/AER_Comment.pdf)</span>
+
 
 <span style="font-size:0.8em;">[Short presentation of results of a pilot study "Do High-Stakes Exams Deter Women
 From Studying Further?
