@@ -71,4 +71,3 @@ I am an applied microeconomist studying the intended and unintended effects of p
 \
 \
 During my doctoral studies, I was a visiting researcher at Sciences Po and George Mason University. Prior to joining the PhD, I worked at the National Bank of Poland and the International Monetary Fund in Warsaw.
-
