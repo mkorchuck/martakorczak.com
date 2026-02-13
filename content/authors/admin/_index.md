@@ -36,7 +36,7 @@ profiles:
   
 
 interests:
-  - Public/Urban Economics
+  - Public and Urban Economics
   - Political Economy
   - Gender
 
@@ -65,8 +65,8 @@ education:
 
 ---
 ## Cześć!
-Welcome to my website. I am a PhD candidate in Economics at European University Institute in Florence. My supervisors are [David K. Levine](http://www.dklevine.com/david.htm) and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home).\
-I use micro-econometric and experimental tools, as well as microeconomic theory, to answer questions from public economics (municipal development, health, education), political economy of media, and gender.\
+I am a PhD candidate in Economics at the European University Institute in Florence. My supervisors are [David K. Levine](http://www.dklevine.com/david.htm) and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home).\
+I am an applied microeconomist studying the intended and unintended effects of public policy, particularly for economically and socially vulnerable populations. My research combines micro-econometric methods, survey and experimental approaches, and economic theory to address policy-relevant questions in public economics and political economy.
 \
-In the past I worked at the Polish central bank and at the International Monetary Fund in Warsaw. Then, I went to Barcelona to train as an applied microeconomist and I continued my path in academia as a PhD student in Florence. During my PhD, I visited SciencesPo in Paris and George Mason University in Washington, DC.
+During my doctoral studies, I was a visiting researcher at Sciences Po and George Mason University. Prior to joining the PhD, I worked at the National Bank of Poland and the International Monetary Fund in Warsaw.
 
