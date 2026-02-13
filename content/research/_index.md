@@ -10,7 +10,7 @@ math: false
 <span style="font-size:0.65em;"> Presented at: Department of Economics at SciencesPo, ICES Brown Bag Lecture, George Mason University, EUI Microeconometrics Working Group, EUI Alumni Conference, IMD Days in Warsaw, City St George's University of London (upcoming)
  </span>
 
-<span style="font-size:0.8em;">The Political Risks of Separating News from Entertainment*\
+<span style="font-size:0.8em;">*The Political Risks of Separating News from Entertainment*\
 [Draft - January 2026](/uploads/Media_draft_August.pdf)</span>\
 <span style="font-size:0.65em;"> Presented at: Nottingham Interdisciplinary Centre for Economic and Political Research (NICEP) 2024 conference, IX Hurwicz Workshop on Mechanism Design Theory in Warsaw, UniCatt Political Economy Research Day in Milan
 </span>

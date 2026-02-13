@@ -54,7 +54,6 @@ education:
     date_start: 2019-09-01
     date_end: 2020-06-30
 
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 
