@@ -4,14 +4,12 @@ date: 2024-08-08
 math: false
 ---
 #### Ongoing projects:
-<span style="font-size:0.8em;">*Losing Capital Status: Does it Matter for a City's Development?*\
-[Draft - October 2025](/uploads/Job_Market_Paper_Marta_Korczak.pdf)\
+<span style="font-size:0.8em;">*[Losing Capital Status: Does it Matter for a City's Development?](/uploads/Job_Market_Paper_Marta_Korczak.pdf)*\
 [YouTube one minute pitch](https://youtube.com/shorts/0yTwwomp1AY?si=NkaD-CqYN2fD2u4_)</span>\
 <span style="font-size:0.65em;"> Presented at: Department of Economics at SciencesPo, ICES Brown Bag Lecture, George Mason University, EUI Microeconometrics Working Group, EUI Alumni Conference, IMD Days in Warsaw, City St George's University of London (upcoming)
  </span>
 
-<span style="font-size:0.8em;">*The Political Risks of Separating News from Entertainment*\
-[Draft - January 2026](/uploads/Media_draft_August.pdf)</span>\
+<span style="font-size:0.8em;">*[The Political Risks of Separating News from Entertainment](/uploads/Media_draft_August.pdf)*</span>\
 <span style="font-size:0.65em;"> Presented at: Nottingham Interdisciplinary Centre for Economic and Political Research (NICEP) 2024 conference, IX Hurwicz Workshop on Mechanism Design Theory in Warsaw, UniCatt Political Economy Research Day in Milan
 </span>
 
@@ -27,9 +25,8 @@ What happens when reproductive laws in a developed country become one of the mos
 <span style="font-size:0.65em;"> Presented at: Health Econonomics of Risky Health Behavior workshop at University of Bologna, 7th Dondena Workshop on Public Policy at Bocconi University
 </span>
 
-<span style="font-size:0.8em;">  *An evaluation of integration policies for Ukrainian refugee children in Poland*\
- with Agnieszka Kozakoszczak, Urszula Markowska-Manista, [Mikołaj Pawlak](http://mikolajpawlak.bio.uw.edu.pl/), Zuzanna Samson and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home)\
-[Website of the project](https://www.eui.eu/research-hub?id=an-evaluation-of-integration-policies-for-ukrainian-refugee-children-in-poland-1)</span>\
+<span style="font-size:0.8em;">  *[An evaluation of integration policies for Ukrainian refugee children in Poland](https://www.eui.eu/research-hub?id=an-evaluation-of-integration-policies-for-ukrainian-refugee-children-in-poland-1)*\
+ with Agnieszka Kozakoszczak, Urszula Markowska-Manista, [Mikołaj Pawlak](http://mikolajpawlak.bio.uw.edu.pl/), Zuzanna Samson and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home)</span>\
 <span style="font-size:0.65em;"> Presented at: Research Seminar: Evaluation of integration policies for Ukrainian refugees at University of Warsaw, Identity and Conflict Lab at Yale Conference on Immigration (upcoming)
 </span>
 
