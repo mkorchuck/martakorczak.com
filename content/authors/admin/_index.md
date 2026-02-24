@@ -69,4 +69,4 @@ I am a PhD candidate in Economics at the European University Institute in Floren
 I am an applied microeconomist studying the intended and unintended effects of public policy, particularly for economically and socially vulnerable populations. My research combines micro-econometric methods, surveys, and economic theory to address policy-relevant questions in public economics and political economy.
 \
 \
-During my doctoral studies, I was a visiting researcher at SciencesPo and George Mason University. Prior to joining the PhD, I worked at the National Bank of Poland and the International Monetary Fund in Warsaw.
+During my doctoral studies, I was a visiting researcher at SciencesPo and George Mason University. Prior to starting the PhD, I worked at the National Bank of Poland and the International Monetary Fund in Warsaw.
