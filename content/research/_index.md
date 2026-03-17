@@ -7,11 +7,11 @@ math: false
 <span style="font-size:0.8em;">*[Losing Capital Status: Does it Matter for a City's Development?](/uploads/Job_Market_Paper_Marta_Korczak.pdf)*\
 [YouTube one minute pitch](https://youtube.com/shorts/0yTwwomp1AY?si=NkaD-CqYN2fD2u4_)</span>\
 <span style="font-size:0.65em;"> Presented at: Department of Economics at SciencesPo, ICES Brown Bag Lecture, George Mason University, EUI Microeconometrics Working Group, EUI Alumni Conference, IMD Days in Warsaw, City St George's University of London (upcoming), Doctorissimes 21st Conference in Paris (upcoming), Applied Young Economists Webinar Series (upcoming), 15th European Meeting of the Urban Economics Association
-in Barcelona (upcoming), 3rd Patras Applied Microeconomics workshop (upcoming), European Association for Labour Economists (EALE) Conference, University of Barcelona (August 2026) 
+in Barcelona (upcoming), 3rd Patras Applied Microeconomics workshop (upcoming), European Association for Labour Economists (EALE) Conference, University of Barcelona (upcoming) 
  </span>
 
 <span style="font-size:0.8em;">*[The Political Risks of Separating News from Entertainment](/uploads/Media_draft_August.pdf)*</span>\
-<span style="font-size:0.65em;"> Presented at: Nottingham Interdisciplinary Centre for Economic and Political Research (NICEP) 2024 conference, IX Hurwicz Workshop on Mechanism Design Theory in Warsaw, UniCatt Political Economy Research Day in Milan, Workshop on Decision Making and Information Processing at IMT Lucca
+<span style="font-size:0.65em;"> Presented at: Nottingham Interdisciplinary Centre for Economic and Political Research (NICEP) 2024 conference, IX Hurwicz Workshop on Mechanism Design Theory in Warsaw, UniCatt Political Economy Research Day in Milan, Workshop on Decision Making and Information Processing at IMT Lucca (upcoming)
 </span>
 
 <span style="font-size:0.8em;">*Is Your Faculty All Male Because of Tenure Requirements?<br>Experimental Evidence From Economics Job Market Candidates*\
