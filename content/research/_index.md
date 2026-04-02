@@ -6,7 +6,7 @@ math: false
 #### Ongoing projects:
 <span style="font-size:0.8em;">*[Losing Capital Status: Does it Matter for a City's Development?](/uploads/Job_Market_Paper_Marta_Korczak.pdf)*\
 [YouTube one minute pitch](https://youtube.com/shorts/0yTwwomp1AY?si=NkaD-CqYN2fD2u4_)</span>\
-<span style="font-size:0.65em;"> Presented at: Department of Economics at SciencesPo, ICES Brown Bag Lecture, George Mason University, EUI Microeconometrics Working Group, EUI Alumni Conference, IMD Days in Warsaw, City St George's University of London (upcoming), Doctorissimes 21st Conference in Paris (upcoming), Applied Young Economists Webinar Series (upcoming), 15th European Meeting of the Urban Economics Association
+<span style="font-size:0.65em;"> Presented at: Department of Economics at SciencesPo, ICES Brown Bag Lecture, George Mason University, EUI Alumni Conference, IMD Days in Warsaw, City St George's University of London, Doctorissimes 21st Conference in Paris (upcoming), Applied Young Economists Webinar Series (upcoming), 15th European Meeting of the Urban Economics Association
 in Barcelona (upcoming), 3rd Patras Applied Microeconomics workshop (upcoming), European Association for Labour Economists (EALE) Conference, University of Barcelona (upcoming) 
  </span>
 
