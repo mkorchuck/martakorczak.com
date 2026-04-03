@@ -66,7 +66,7 @@ education:
 ## Cześć!
 I am a PhD candidate in Economics at the European University Institute in Florence. My supervisors are [David K. Levine](http://www.dklevine.com/david.htm) and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home).\
 \
-I am an applied microeconomist studying the intended and unintended effects of public policy, particularly for economically and socially vulnerable populations. My research combines micro-econometric methods, surveys, and economic theory.
+I am an applied microeconomist studying the intended and unintended effects of public policy, particularly for economically and socially vulnerable populations. I am also very interested in political economy, both theoretical and empirical. My research combines micro-econometric methods, surveys, and economic theory.
 \
 \
 During my doctoral studies, I was a visiting researcher at SciencesPo and George Mason University. Prior to starting the PhD, I worked at the National Bank of Poland and the International Monetary Fund in Warsaw.
