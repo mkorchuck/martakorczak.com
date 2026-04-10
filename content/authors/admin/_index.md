@@ -64,8 +64,8 @@ education:
 
 ---
 ## Cześć!
-I am a PhD candidate in Economics at the European University Institute in Florence, supervised by [David K. Levine](http://www.dklevine.com/david.htm) and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home).
-\\
-My research combines causal inference methods with large administrative datasets, complemented by experimental and theoretical approaches, to identify the effects of policy interventions on labor markets, demographic outcomes, and health.
-\\
+I am a PhD candidate in Economics at the European University Institute in Florence, supervised by [David K. Levine](http://www.dklevine.com/david.htm) and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home).\
+\
+My research combines causal inference methods with large administrative datasets, complemented by experimental and theoretical approaches, to identify the effects of policy interventions on labor markets, demographic outcomes, and health.\
+\
 During my doctoral studies, I was a visiting researcher at SciencesPo and George Mason University. Prior to starting the PhD, I worked at the National Bank of Poland and the International Monetary Fund in Warsaw.
