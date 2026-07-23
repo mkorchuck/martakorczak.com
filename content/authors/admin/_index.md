@@ -64,7 +64,7 @@ education:
 
 ---
 ## Cześć!
-I defended my PhD in Economics at the European University Institute in Florence, supervised by [David K. Levine](http://www.dklevine.com/david.htm) and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home). I will be joining Utrecht University as a Lecturer in August 2026.\
+I defended my PhD thesis in Economics at the European University Institute in Florence in June 2026, supervised by [David K. Levine](http://www.dklevine.com/david.htm) and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home). I will be joining Utrecht University as a Lecturer in August 2026.\
 \
 My research combines causal inference methods with large administrative datasets, complemented by experimental and theoretical approaches, to identify the effects of policy interventions on labor markets, demographic outcomes, and health.\
 \
