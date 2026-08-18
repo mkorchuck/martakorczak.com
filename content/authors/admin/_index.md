@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate in Economics
+role: Lecturer in Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: European University Institute
-    url: https://www.eui.eu/
+  - name: Utrecht University
+    url: https://www.uu.nl/en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:marta.korczak@eui.eu'
+    url: 'mailto:m.a.korczak@uu.nl'
     label: E-mail Me
   
 
