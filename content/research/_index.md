@@ -32,7 +32,7 @@ with Monika Raulinajtys-Grzybek and [Alessandro Tarozzi](https://sites.google.co
 
 <span style="font-size:0.8em;">  *[An Evaluation of Integration Policies for Ukrainian Refugee Children in Poland](https://www.eui.eu/research-hub?id=an-evaluation-of-integration-policies-for-ukrainian-refugee-children-in-poland-1)*\
  with Agnieszka Kozakoszczak, Urszula Markowska-Manista, [Mikołaj Pawlak](http://mikolajpawlak.bio.uw.edu.pl/), Zuzanna Samson and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home)</span>\
-<span style="font-size:0.65em;"> Presented at: Research Seminar: Evaluation of integration policies for Ukrainian refugees at University of Warsaw, Identity and Conflict Lab at Yale Conference on Immigration (upcoming)
+<span style="font-size:0.65em;"> Presented at: Research Seminar: Evaluation of integration policies for Ukrainian refugees at University of Warsaw, Identity and Conflict Lab at Yale Conference on Immigration, Transconnect Seminar at Center for Migration and Integration Research at Stockholm School of Economics (upcoming)
 </span>
 
 <span style="font-size:0.8em;">*Positive Fiscal Shocks and Municipal Development*\
