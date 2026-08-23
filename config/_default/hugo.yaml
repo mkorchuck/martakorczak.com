@@ -44,7 +44,6 @@ imaging:
 timeout: 600000
 taxonomies:
   author: authors
-  tag: tags
 markup:
   _merge: deep
   highlight:
