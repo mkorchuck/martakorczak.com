@@ -45,7 +45,6 @@ timeout: 600000
 taxonomies:
   author: authors
   tag: tags
-  publication_type: publication_types
 markup:
   _merge: deep
   highlight:
