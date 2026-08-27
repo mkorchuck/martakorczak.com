@@ -5,19 +5,20 @@ math: false
 ---
 #### Working papers:
 
-<span style="font-size:0.8em;">*[Losing Capital Status: Does it Matter for a City's Development?](/uploads/Job_Market_Paper_Marta_Korczak.pdf)*\
+<span style="font-size:0.8em;">*Losing Capital Status: Does it Matter for a City's Development?*\
 [YouTube one minute pitch](https://youtube.com/shorts/0yTwwomp1AY?si=NkaD-CqYN2fD2u4_)</span>\
 <span style="font-size:0.65em;"> Presented at: Department of Economics at SciencesPo, ICES Brown Bag Lecture, George Mason University, EUI Alumni Conference, IMD Days in Warsaw, City St George's University of London, Doctorissimes 21st Conference in Paris, Applied Young Economists Webinar Series, 15th European Meeting of the Urban Economics Association
 in Barcelona, 16th Annual Meeting of the Armenian Economics Association
  </span>
 
-<span style="font-size:0.8em;">*[The Political Risks of Separating News from Entertainment](/uploads/Media_draft_August.pdf)*</span>\
+<span style="font-size:0.8em;">*Separating News from Entertainment: Attention and Political Accountability*</span>\
 <span style="font-size:0.65em;"> Presented at: Nottingham Interdisciplinary Centre for Economic and Political Research (NICEP) 2024 conference, IX Hurwicz Workshop on Mechanism Design Theory in Warsaw, UniCatt Political Economy Research Day in Milan
 </span>
 
 #### Ongoing projects:
 
-<span style="font-size:0.8em;">*Is Your Faculty All Male Because of Tenure Requirements?<br>Experimental Evidence From Economics Job Market Candidates*\
+<span style="font-size:0.8em;">*Publish or Perish? Tenure Requirements, Gender, and Academic
+Career Preferences among Young Economists<br>Experimental Evidence From Economics Job Market Candidates*\
 with [Maria Cubel](https://sites.google.com/site/mariacubel/home) and [Christina Sarah Hauser](https://sites.google.com/view/christinasarahhauser)</span>\
 <span style="font-size:0.75em;">We investigate the effect of tenure requirements on the supply of female candidates for academic positions in Economics. Economic research is known for having a “leaky pipeline”: Despite high early-stage academic achievements, only few women reach tenured positions. Within a hypothetical choice experiment, we aim to quantify the willingness of PhD candidates in economics to give up salary, low teaching loads, or prestigious positions for jobs with less stringent tenure requirements. We hypothesize that high publication requirements for tenure deter female economists from pursuing a career in academia. Our findings aim to inform policies to retain female talent in academia. </span>\
 <span style="font-size:0.65em;"> Presented at: Women in Behavioral & Experimental Economics Workshop at City St George's University of London; Irish Society for Women In Economics Conference (upcoming)
