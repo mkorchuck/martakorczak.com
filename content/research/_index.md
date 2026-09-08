@@ -11,7 +11,7 @@ math: false
 in Barcelona, 16th Annual Meeting of the Armenian Economics Association
  </span>
 
-<span style="font-size:0.8em;">*Separating News from Entertainment: Attention and Political Accountability*</span>\
+<span style="font-size:0.8em;">*[Separating News from Entertainment: Attention and Political Accountability](/uploads/media_paper_sep26.pdf)*</span>\
 <span style="font-size:0.65em;"> Presented at: Nottingham Interdisciplinary Centre for Economic and Political Research (NICEP) 2024 conference, IX Hurwicz Workshop on Mechanism Design Theory in Warsaw, UniCatt Political Economy Research Day in Milan
 </span>
 
