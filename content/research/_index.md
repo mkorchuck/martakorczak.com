@@ -20,7 +20,7 @@ in Barcelona, 16th Annual Meeting of the Armenian Economics Association
 Career Preferences among Young Economists<br>Experimental Evidence From Economics Job Market Candidates*\
 with [Maria Cubel](https://sites.google.com/site/mariacubel/home) and [Christina Sarah Hauser](https://sites.google.com/view/christinasarahhauser)</span>\
 <span style="font-size:0.75em;">We investigate the effect of tenure requirements on the supply of female candidates for academic positions in Economics. Economic research is known for having a “leaky pipeline”: Despite high early-stage academic achievements, only few women reach tenured positions. Within a hypothetical choice experiment, we aim to quantify the willingness of PhD candidates in economics to give up salary, low teaching loads, or prestigious positions for jobs with less stringent tenure requirements. We hypothesize that high publication requirements for tenure deter female economists from pursuing a career in academia. Our findings aim to inform policies to retain female talent in academia. </span>\
-<span style="font-size:0.65em;"> Presented at: Women in Behavioral & Experimental Economics Workshop at City St George's University of London; Irish Society for Women In Economics Conference (upcoming)
+<span style="font-size:0.65em;"> Presented at: Women in Behavioral & Experimental Economics Workshop at City St George's University of London; Irish Society for Women In Economics Conference
 </span>
 
 
