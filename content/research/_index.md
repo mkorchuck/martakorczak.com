@@ -33,6 +33,7 @@ with Monika Raulinajtys-Grzybek and [Alessandro Tarozzi](https://sites.google.co
 
 
 <span style="font-size:0.8em;">  *[An Evaluation of Integration Policies for Ukrainian Refugee Children in Poland](https://www.eui.eu/research-hub?id=an-evaluation-of-integration-policies-for-ukrainian-refugee-children-in-poland-1)*\
+[Interview with the EUI on the main results of the project](https://www.eui.eu/news-hub?id=how-cross-cultural-assistants-support-ukrainian-refugee-children-in-poland)\
  with Agnieszka Kozakoszczak, Urszula Markowska-Manista, [Mikołaj Pawlak](http://mikolajpawlak.bio.uw.edu.pl/), Zuzanna Samson and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home)</span>\
 <span style="font-size:0.65em;"> 
 </span>
