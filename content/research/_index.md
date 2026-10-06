@@ -39,7 +39,6 @@ math: false
   <p class="paper-title"><a href="/uploads/media_paper_sep26.pdf">Separating News from Entertainment: Attention and Political Accountability</a></p>
   <div class="paper-links">
     <a href="/uploads/media_paper_sep26.pdf">PDF</a>
-   To add an abstract, uncomment and fill in:
     <details><summary>Abstract</summary><p>How effective is public scrutiny when exposure to political information becomes elective? I model media technology as the cost a consumer bears for steering attention away from a platform's default mix. Cheaper steering withdraws news from entertainment-leaning voters and gives more to news-leaning ones. With an evenly mixed default these effects offset, so aggregate scrutiny falls only when voters on average prefer entertainment; a news-heavy default makes it fall even in a balanced electorate. The loss is largest when all voters share the same preference for entertainment. Unbundling benefits every voter privately yet can reduce welfare, since each internalizes only a small share of the fall in the public good.</p></details>
   </div>
 </div>
