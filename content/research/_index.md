@@ -30,8 +30,7 @@ math: false
 
 <div class="paper">
   <p class="paper-title">Losing Capital Status: Does it Matter for a City's Development?</p>
- <div class="paper-links"><a href="/uploads/slides_capitalspaper_mk.pdf">Slides</a></div> <div class="paper-links">
-    <a href="https://youtube.com/shorts/0yTwwomp1AY?si=NkaD-CqYN2fD2u4_">▶ 1-min video pitch</a>
+ <div class="paper-links"><a href="/uploads/slides_capitalspaper_mk.pdf">Slides</a></div><div class="paper-links"><a href="https://youtube.com/shorts/0yTwwomp1AY?si=NkaD-CqYN2fD2u4_">▶ 1-min video pitch</a>
   </div>
 </div>
 
