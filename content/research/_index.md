@@ -27,6 +27,13 @@ math: false
 <div class="research">
 
 <h3>Working Papers</h3>
+<div class="paper">
+  <p class="paper-title"><a href="/uploads/media_paper_sep26.pdf">Separating News from Entertainment: Attention and Political Accountability</a></p>
+  <div class="paper-links">
+    <a href="/uploads/media_paper_sep26.pdf">PDF</a>
+    <details><summary>Abstract</summary><p>How effective is public scrutiny of politicians when voters choose what media to consume? I model media technology as the cost of steering attention away from a platform’s default bundle. Cheaper steering, which I call unbundling, lowers news consumption among voters who prefer entertainment and raises it among those who prefer news. When the bundle serves news and entertainment in equal proportions, these effects offset, so aggregate scrutiny falls only when voters on average prefer entertainment, and falls most when they share a moderate preference for it. Unbundling benefits every voter privately yet can reduce welfare, because each voter internalizes only a small share of the resulting fall in accountability.</p></details>
+  </div>
+</div>
 
 <div class="paper">
   <p class="paper-title">Losing Capital Status: Does it Matter for a City's Development?</p>
@@ -34,13 +41,7 @@ math: false
   </div>
 </div>
 
-<div class="paper">
-  <p class="paper-title"><a href="/uploads/media_paper_sep26.pdf">Separating News from Entertainment: Attention and Political Accountability</a></p>
-  <div class="paper-links">
-    <a href="/uploads/media_paper_sep26.pdf">PDF</a>
-    <details><summary>Abstract</summary><p>How effective is public scrutiny when exposure to political information becomes elective? I model media technology as the cost a consumer bears for steering attention away from a platform's default mix. Cheaper steering withdraws news from entertainment-leaning voters and gives more to news-leaning ones. With an evenly mixed default these effects offset, so aggregate scrutiny falls only when voters on average prefer entertainment; a news-heavy default makes it fall even in a balanced electorate. The loss is largest when all voters share the same preference for entertainment. Unbundling benefits every voter privately yet can reduce welfare, since each internalizes only a small share of the fall in the public good.</p></details>
-  </div>
-</div>
+
 
 <div class="paper">
   <p class="paper-title">Publish or Perish? Tenure Requirements, Gender, and Academic Career Preferences among Young Economists<br><span class="paper-subtitle">Experimental Evidence From Economics Job Market Candidates</span></p>
