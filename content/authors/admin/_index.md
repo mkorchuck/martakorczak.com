@@ -66,4 +66,4 @@ education:
 ## Cześć!
 I am a lecturer at [Utrecht University School of Economics](https://www.uu.nl/en/organisation/utrecht-university-school-of-economics-use). I defended my PhD thesis in Economics at the European University Institute in Florence in June 2026, supervised by [David K. Levine](http://www.dklevine.com/david.htm) and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home).\
 \
-I am an applied microeconomist working in public and urban economics, political economy, and the economics of gender. I combine causal econometrics and large administrative datasets with experiments and theory.
+I am a microeconomist working in public economics, political economy, and the economics of gender. I combine causal econometrics and large administrative datasets with theory and experiments.
